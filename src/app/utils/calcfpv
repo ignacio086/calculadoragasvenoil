@@ -1,0 +1,7 @@
+
+function ValorFpv(){
+    return 0
+}
+
+
+export default ValorFpv
